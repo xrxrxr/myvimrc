@@ -8,7 +8,7 @@ filetype off
 
 set rtp+=~/.vim/bundle/vundle/
 
-
+call vundle#rc()
 
 set t_Co=256
 "let mapleader=','
